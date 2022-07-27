@@ -2,9 +2,13 @@
 
 The data are processed from https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao. The data is not documented yet, but free to use following the same license of the main repository. Data for each one of the 27 federative units (UFs) are available in `processed_UF.csv.gz` files, and logs in the `log/`folder. It is important to notice that these data can differ from the main repository, since the original microdata is frequently updated.
 
+All data is processed with computational resources from the Departament of Physics of the [Federal University of Viçosa (UFV)](https://ufv.br/), being part of the [CAPES](https://capes.gov.br) project ["Modelagem matemática da disseminação geográfica da COVID-19"](https://covidbr.github.io/).
+
 # Dados de vacinação
 
 Os dados são processados a partir dos microdados em https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao. Os dados não estão documentados ainda, mas são livres para uso seguindo a mesma licença do repositório principal. Os dados para cada uma das 27 unidades federativas estão nos arquivos `processed_UF.csv.gz`, e os logs na pasta `log/`. É importante dizer que os dados podem ser diferentes do repositório principal, já que os microdados são frequentemente atualizados.
+
+Todos os dados são processados com recursos computacionais do Departamento de Física da [Universidade Federal de Viçosa (UFV)](https://ufv.br/), parte de um projeto da [CAPES](https://capes.gov.br) entitulado ["Modelagem matemática da disseminação geográfica da COVID-19"](https://covidbr.github.io/).
 
 DOI: [10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362)
 
