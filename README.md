@@ -28,3 +28,4 @@ BibTeX:
 	title = {Monitoring the number of {COVID}-19 cases and deaths in Brazil at municipal and federative units level}
 }
 ```
+
